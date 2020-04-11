@@ -5,7 +5,7 @@ Every city is built on different circumstances, environment and different constr
 
 Data Section
 
-The data used to calculate is available for New york and the other half i.e. for toronto has been been scraped for wikipedia. Both of the dataset consist of the boroughs, neighborhoods and the locations of them. The foursqaure api will be used to analyze the places nearby these neighborhoods and see the proximity of important places from the corresponding neighborhoods.
+The data used to calculate is available for Toronto and the other half i.e. for toronto has been been scraped for wikipedia. Both of the dataset consist of the boroughs, neighborhoods and the locations of them. The foursqaure api will be used to analyze the places nearby these neighborhoods and see the proximity of important places from the corresponding neighborhoods.
 
 Methodology Section
 
@@ -17,8 +17,8 @@ The results which were found out after visualization the neighborhoods of both c
 
 Discussion Section
 
-Certain similarities I noted which is the top ten common place similarity is calculated through K-means and according to those 10 most common places does the clusters form. For example, Cluster 0 for New York and Cluster 3 for toronto has first two places pretty much same as coffee shops and cafe's yet they are not classified in the same cluster as the remaining places differ very extremely.
+Certain similarities I noted which is the top ten common place similarity is calculated through K-means and according to those 10 most common places does the clusters form. For example, Cluster 0 for Toronto and Cluster 3 for toronto has first two places pretty much same as coffee shops and cafe's yet they are not classified in the same cluster as the remaining places differ very extremely.
 
 Conclusion Section
 
-Thus, after analyzing both the cities most common places by applying machine learning algorithm (K-means clustering), I realized that many common places are present in both the cities but are distributed differently for both them and it's the nature and circumstances as well as arrangement which leads to these different distribution in both toronto as well as New York.
+Thus, after analyzing both the cities most common places by applying machine learning algorithm (K-means clustering), I realized that many common places are present in both the cities but are distributed differently for both them and it's the nature and circumstances as well as arrangement which leads to these different distribution in both Toronto as well as New York.
